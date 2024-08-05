@@ -1,9 +1,6 @@
 Thyroid-Disease-Prediction/
-├── src/
-│   ├── __init__.py
-│   ├── hostel_management_system.py  #Logic for managing hostel rooms.
-│   ├── gui.py                       #Graphical user interface using Tkinter.
-├── .gitignore                       #Specifies files and directories to be ignored by git.
-├── Folder structure.txt
+├── Folder Structure.txt 
 ├── README.md
-└── requirements.txt
+├── requirements.txt
+├── thyroid_disease_prediction.ipynb
+└── thyroid_model.pkl
